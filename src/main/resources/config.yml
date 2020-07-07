@@ -1,0 +1,7 @@
+servers:
+  survival:
+    command: java -jar server.jar
+    cwd: ./survival
+    shutdownTime: 30000
+
+waitingServer: lobby
